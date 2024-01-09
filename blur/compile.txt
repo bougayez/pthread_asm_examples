@@ -1,1 +1,1 @@
-g++ negative.cpp -o negative -lpthread `pkg-config --cflags --libs opencv4`
+g++ blur.cpp -o blur -lpthread `pkg-config --cflags --libs opencv4`
